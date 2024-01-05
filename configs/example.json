@@ -1,0 +1,13 @@
+[
+  {
+    "profile": "Debian",
+    "title": "Root",
+    "directory": "/"
+  },
+  {
+    "profile": "Debian",
+    "title": "My home",
+    "directory": "~",
+    "color": "#01b765"
+  }
+]
